@@ -12,7 +12,7 @@ state_of_origin = input("Enter your state of origin: ")
 best_subject = input("Enter your best subject: ")
 print()
 #display the student profile
-print("============ HELLO {name}, YOUR STUDENT PROFILE IS READY! =============")
+print(f"============ HELLO {name}, YOUR STUDENT PROFILE IS READY! =============")
 print()
 print(f"Hello PWP community!, introducing {name} a {department} student of the {school}. He's from {state_of_origin} and his best subject is {best_subject}.")
 
